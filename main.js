@@ -9,8 +9,8 @@ function setup() {
 let board
 let shoe
 function preload() {
-  board = loadImage("https://www.dropbox.com/s/2q4rdu2o0mtxb4k/monopoly_board.jpg?dl=1");
-  shoe = loadImage("https://www.dropbox.com/s/omdnb754hlz0107/shoe.png?dl=1");
+  board = loadImage("https://docs.google.com/uc?export=download&id=1ElnM9HmZopHt7yZS6LdkwzXZNtJvjERH");
+  shoe = loadImage("https://docs.google.com/uc?export=download&id=1SqHDjGUXb3hd-pqi5W-vVFBbDXSocPwU");
 }
 
 function draw() {
